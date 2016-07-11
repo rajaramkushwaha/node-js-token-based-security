@@ -1,4 +1,4 @@
-# node-js-token-based-security
+# node-js-token-based-security with mongodb
 
 ##1 How run the application?
 
