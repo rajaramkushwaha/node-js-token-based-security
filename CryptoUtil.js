@@ -72,7 +72,7 @@ var jwt    = require('jsonwebtoken'); // used to create, sign, and verify tokens
     };
     this.createToken=function(user){    
         var token = jwt.sign(user, config.security.tokenSecret, {
-              expiresIn: 1440 // expires in 24 hours
+             expiresIn: config.security.expiresIn // expires in 24 hours
             });
     return token;
     };
