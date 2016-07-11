@@ -5,6 +5,7 @@
   >npm install 
 
   >node server.js
+  
 ##2 How to setup user.
 
    Invoke  http://localhost:8080/api/public/setup URL using GET method.
