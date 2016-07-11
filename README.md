@@ -9,6 +9,7 @@
 ##2 How to setup user.
 
    Invoke  http://localhost:8080/api/public/setup URL using GET method.
+   
 ##3 how to authenticate
 
     Invoke http://localhost:8080/api/public/authenticate  URL using POST method
